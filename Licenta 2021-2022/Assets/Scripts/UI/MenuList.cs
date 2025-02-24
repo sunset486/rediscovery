@@ -1,0 +1,8 @@
+public enum MenuList
+{
+    MAIN_MENU,
+    SELECT_GAME_MENU,
+    OPTIONS_MENU,
+    BUNNY_GAME_SUBMENU,
+    BALL_GAME_SUBMENU
+}

@@ -1,0 +1,20 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!1045 &1
+EditorBuildSettings:
+  m_ObjectHideFlags: 0
+  serializedVersion: 2
+  m_Scenes:
+  - enabled: 1
+    path: Assets/Scenes/ReDiscovery.unity
+    guid: a7a05eb380b920c499282bdc8a37a24a
+  - enabled: 1
+    path: Assets/Scenes/BunnyGame.unity
+    guid: 093442e499d731a4bbe9b74014bdf2e7
+  - enabled: 1
+    path: Assets/Scenes/ThrowBallGame.unity
+    guid: 24599a121d968c04f83e6a9f5c8aa2a0
+  m_configObjects:
+    Unity.XR.Oculus.Settings: {fileID: 11400000, guid: b03460dc8169e1945890b8b94c3d3044, type: 2}
+    com.unity.xr.management.loader_settings: {fileID: 11400000, guid: a41ba00d653849243aee0080ecd1d46e, type: 2}
+    com.unity.xr.openxr.settings4: {fileID: 11400000, guid: 03f9f69a09417e146a399aa563805021, type: 2}
